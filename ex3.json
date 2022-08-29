@@ -1,0 +1,16 @@
+{
+    "users": [
+        {
+            "login": "Alisa",
+            "email": "alisa@mail.ru"
+        },
+        {
+            "login": "Artyom",
+            "email": "dan.1000@mail.ru"
+        },
+        {
+            "login": "Katharina",
+            "email": "yazceva199819@mail.ru"
+        }
+    ]
+}
